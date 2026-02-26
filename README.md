@@ -4,7 +4,7 @@ A clean and reusable dark mode implementation using HTML, CSS variables and Java
 
 ## 🚀 Live Demo
 
-https://danielrrck3-hash.github.io/simple-dark-mode-snippet/
+https://daniellrck3-hash.github.io/simple-dark-mode-snippet/
 
 ---
 
